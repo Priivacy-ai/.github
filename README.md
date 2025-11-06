@@ -120,7 +120,7 @@ Together, they form a modern developer toolkit for **shipping privacy-compliant 
 
 ## License
 
-Both projects are released under the **MIT License**. See individual repositories for full license text.
+Spec Kitty is released under the **MIT License**. 
 
 ---
 
