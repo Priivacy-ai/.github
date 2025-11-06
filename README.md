@@ -35,23 +35,6 @@ Priivacy reimagines Microsoft's original privacy toolkit with a modern, low-late
 - F1 improvements ranging from 5-15% across all recognizer tiers
 - Zero-copy performance with <2x processing overhead
 
-**Quick Start:**
-```bash
-# Rust
-cargo add priivacy-core
-
-# Python (coming soon)
-pip install priivacy
-
-# Node.js
-npm install @priivacy/analyzer
-
-# CLI
-cargo build -p priivacy-cli
-```
-
-**Repository:** [github.com/Priivacy-ai/priivacy_rust](https://github.com/Priivacy-ai/priivacy_rust)
-
 ---
 
 ### 📋 [Spec Kitty](https://github.com/Priivacy-ai/spec-kit) (Community Fork)
