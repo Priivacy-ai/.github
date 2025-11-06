@@ -8,7 +8,7 @@ Visit our website: [priivacy.ai](https://priivacy.ai)
 
 ## Our Projects
 
-### 🔐 [Priivacy Rust](https://github.com/Priivacy-ai/priivacy_rust)
+### 🔐 Priivacy
 
 A high-performance, privacy-first **PII detection and anonymization toolkit** written in Rust.
 
