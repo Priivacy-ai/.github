@@ -37,7 +37,7 @@ Priivacy reimagines Microsoft's original privacy toolkit with a modern, low-late
 
 ---
 
-### 📋 [Spec Kitty](https://github.com/Priivacy-ai/spec-kit) (Community Fork)
+### 📋 [Spec Kitty](https://github.com/Priivacy-ai/spec-kit) 
 
 A **specification-first development framework** with live kanban dashboard and AI agent orchestration, built on GitHub's Spec Kit.
 
