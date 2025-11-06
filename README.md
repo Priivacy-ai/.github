@@ -107,11 +107,6 @@ Together, they form a modern developer toolkit for **shipping privacy-compliant 
 
 ## Getting Started
 
-### For Priivacy (PII Detection)
-- Read the [Priivacy Rust README](https://github.com/Priivacy-ai/priivacy_rust/blob/main/README.md)
-- Check the [migration guide from Presidio](https://github.com/Priivacy-ai/priivacy_rust/blob/main/docs/MIGRATION_FROM_PRESIDIO.md)
-- Explore [examples](https://github.com/Priivacy-ai/priivacy_rust/tree/main/examples) for Rust, Python, Node.js, and WebAssembly
-
 ### For Spec Kitty (Spec-Driven Development)
 - Read the [Spec Kitty README](https://github.com/Priivacy-ai/spec-kit/blob/main/README.md)
 - Run `spec-kitty --help` for CLI reference
@@ -131,7 +126,7 @@ Both projects are released under the **MIT License**. See individual repositorie
 
 ## Community & Support
 
-- **Report Issues:** [Priivacy Rust Issues](https://github.com/Priivacy-ai/priivacy_rust/issues) | [Spec Kitty Issues](https://github.com/Priivacy-ai/spec-kit/issues)
+- **Report Issues:** [Spec Kitty Issues](https://github.com/Priivacy-ai/spec-kit/issues)
 - **Website:** [priivacy.ai](https://priivacy.ai)
 - **Discussions:** Check GitHub Discussions in each repository
 
